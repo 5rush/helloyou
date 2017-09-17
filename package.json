@@ -1,7 +1,7 @@
 {
   "name": "helloyou",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple node.js application",
   "main": "app.js",
   "dependencies": {
     "express": "^4.15.4"
